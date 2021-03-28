@@ -106,7 +106,7 @@ body.active{
 /* hero section styling starts here */
 .hero{
     background: linear-gradient(to right,rgba(0,0,0,1),rgba(0,0,0,.6)),
-    url('/images/gym5.jpg');
+    url('images/gym5.jpg');
     height:100vh;
     background-position: center;
     background-size: cover;
@@ -591,7 +591,7 @@ services
     rgba(0,0,0,.6) 35%,
     rgba(0,0,0,.1) 100%
     ),
-    url('/images/gym22.jpg') center no-repeat ;
+    url('images/gym22.jpg') center no-repeat ;
     background-size: cover;
     height:450px;
     width:100%;
